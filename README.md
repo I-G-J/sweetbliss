@@ -36,4 +36,8 @@ It showcases a variety of cakes, pastries, and baked goods with a clean UI and s
 
 ---
 
-## 📂 Project Structure
+## how to use 
+you should have php in your pc as a prerequsite 
+paste the folder in the xampp\htdocs folder 
+run - localhost/(folder name ) { sweetbliss in my case}
+for database checkup open myphpadmin
